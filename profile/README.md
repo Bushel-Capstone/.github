@@ -17,7 +17,7 @@ While we would like to allow contributions from everyone, we are currently limit
 
 1. **Understand the Goal**: Before contributing, please familiarize yourself with our mission and the goals of the specific project you're working in.
 
-2. **Code of Conduct**: We value a positive and respectful environment. Please read our Code of Conduct before participating.
+2. [**Code of Conduct**](https://github.com/Bushel-Capstone/.github/blob/f5f44849a121d841776009fafd91a0709b0503c9/profile/code-of-conduct.md): We value a positive and respectful environment. Please read our Code of Conduct before participating.
 
 3. **Issue Tracker**: Check our issues tracker to see if someone already started a discussion about your topic. If not, feel free to open a new issue.
 
